@@ -9,7 +9,7 @@ function PostTemplateInnerBlocks() {
 	const innerBlocksProps = useInnerBlocksProps(
 		{ className: 'wp-block-post' },
 		{ template: [
-			[ 'external-title/external-title', { tagName: 'h3' } ]
+			[ 'external-meta-block/external-meta-block', { tagName: 'h3' } ]
 		] }
 	);
 	return <li { ...innerBlocksProps } />;
