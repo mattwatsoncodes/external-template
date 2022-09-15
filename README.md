@@ -8,3 +8,7 @@ To get up and running, pull this block into your WordPress plugins directory, `c
 `npm run build`
 
 This will compile the assets into the build folder.
+
+- [External Query](https://github.com/mattwatsoncodes/external-query/)
+- [External Template](https://github.com/mattwatsoncodes/external-template)
+- [External Meta Block](https://github.com/mattwatsoncodes/external-meta-block)
