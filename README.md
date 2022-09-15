@@ -1,5 +1,5 @@
-# External Query
-Proof of Concept block for creating a query loop from an external source.
+# External Template
+Proof of Concept block for rendering and providing a post template area for external posts.
 
 Built using the [WordPress Create Block Script](https://www.npmjs.com/package/@wordpress/create-block).
 
