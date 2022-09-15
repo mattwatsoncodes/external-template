@@ -5,15 +5,13 @@
 	"version": "0.1.0",
 	"title": "External Template",
 	"category": "theme",
-	"icon": "smiley",
+	"icon": "layout",
 	"description": "Example block scaffolded with Create Block tool.",
 	"supports": {
 		"html": false
 	},
 	"textdomain": "external-template",
 	"editorScript": "file:./index.js",
-	"editorStyle": "file:./index.css",
-	"style": "file:./style-index.css",
 	"usesContext": [
 		"endpoint",
 		"posts"
